@@ -1,0 +1,19 @@
+{
+  "name": "tablarest",
+  "version": "1.0.0",
+  "description": "tarea tabla restful",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "restful",
+    "tarea",
+    "web"
+  ],
+  "author": "Marcela Sigala",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}

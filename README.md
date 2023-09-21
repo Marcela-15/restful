@@ -48,6 +48,13 @@ Para utilizar esta API, realiza peticiones HTTP a los siguientes puntos finales:
 
 - Marcela Sigala
 
+## Contribución
+No se aceptan contribuciones.
+
 ## Licencia
 
 Este proyecto está bajo la Licencia ISC. Consulta el archivo [LICENSE](LICENSE) para obtener detalles.
+
+## Contacto
+
+Correo: a348533@uach.mx
